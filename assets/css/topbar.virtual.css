@@ -667,3 +667,7 @@
   align-items: center;
   justify-content: center;
 }
+
+.work-experience {
+  margin-bottom: 30px !important;
+}
